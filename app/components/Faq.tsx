@@ -52,7 +52,7 @@ export function Faq() {
                                 </Accordion.Content>
                             </Accordion.Item>
                         </div>
-                    ))};
+                    ))}
 
                 </Accordion.Root>
             </div>
